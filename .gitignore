@@ -5,6 +5,7 @@ npm-debug.log
 .vscode/
 .idea/
 config/local.json
+config/docker.json
 var
 build/config.json
 core/build/config.json
